@@ -19,5 +19,5 @@
 
 
 ### 😎 Masterpiece with Pride
-- [ERC6551 Wallet]():  MyWallet is a smart contract wallet solution supporting social recovery. Compatible with the latest ERC-4337 account abstraction and ERC-6551 , MyWallet is a leading smart contract wallet solution.
-- [NFT AMM Marketplace](): My marketplace is a decentralized trading platform, dedicated to the exchange and liquidity management of NFTs.
+- [ERC6551 Wallet](https://github.com/0x0077/erc6551-wallet):  MyWallet is a smart contract wallet solution supporting social recovery. Compatible with the latest ERC-4337 account abstraction and ERC-6551 , MyWallet is a leading smart contract wallet solution.
+- [NFT AMM Marketplace](https://github.com/0x0077/nft-amm-marketplace): My marketplace is a decentralized trading platform, dedicated to the exchange and liquidity management of NFTs.
