@@ -22,12 +22,3 @@
         src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
 </p>
 
-
-### 😎 Masterpiece with Pride
-- [ERC6551 Wallet](https://github.com/0x0077/erc6551-wallet):  MyWallet is a smart contract wallet solution supporting social recovery. Compatible with the latest ERC-4337 account abstraction and ERC-6551 , MyWallet is a leading smart contract wallet solution.
-- [NFT AMM Marketplace](https://github.com/0x0077/nft-amm-marketplace): My marketplace is a decentralized trading platform, dedicated to the exchange and liquidity management of NFTs.
-- [Vyper Online Compile](https://github.com/0x0077/vyper-online-compiler): The Vyper online editor is an efficient and easy-to-use platform for Vyper compilation and deployment.
-- [Vyper Chinese Tutorial](https://github.com/0x0077/WTF-Vyper): This is an introductory tutorial on the Vyper language in Chinese
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0x0077&layout=compact&langs_count=8&theme=tokyonight)
