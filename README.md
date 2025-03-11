@@ -3,6 +3,8 @@
 ### About me 💯
 - 🔭 I’m currently working on Ethereum and Layer2.
 - 🌱 I’m currently learning new era
+- 💻 I know a bit of Python, Rust, TypeScript, React, Vyper, and Solidity. Am I a full-stack developer?
+- 🔥 I'm passionate about programming, but only for topics I'm interested in.
 
 
 ### 🎯 Skills
@@ -22,3 +24,12 @@
         src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
 </p>
 
+
+### 🚀 Projects 
+- [ERC6551-Wallet](https://github.com/0x0077/erc6551-wallet): ERC-6551 Wallet is a smart contract wallet solution supporting social recovery, built on the Ethereum blockchain. Through ERC-6551 Wallet, developers can provide a smooth user experience in their products, free of private keys and gas, thereby rapidly attracting massive Web2 users.
+
+- [NFT-marketplace](https://github.com/0x0077/nft-marketplace-contract): Apex is a decentralized NFT marketplace that leverages an efficient and flexible automated market maker (AMM) mechanism to enable seamless NFT-to-token swaps.
+
+- [Fuelsawp-crypto-swap](https://github.com/0x0077/Fuelsawp-crypto-swap-contract): A high-performance decentralized exchange for cryptocurrency trading built on Fuel Network. Features optimized swap routing, concentrated liquidity pools, and minimal slippage for standard token pairs.
+
+- [Fuelsawp-stable-swap](https://github.com/0x0077/Fuelsawp-stable-swap-conrtact): Specialized stable coin exchange on the Fuel Network with custom curve algorithms optimized for minimal price impact between pegged assets. Designed for high-volume, low-slippage trades between stablecoins.
