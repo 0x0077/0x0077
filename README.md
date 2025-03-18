@@ -33,3 +33,7 @@
 - [Fuelsawp-crypto-swap](https://github.com/0x0077/Fuelsawp-crypto-swap-contract): A high-performance decentralized exchange for cryptocurrency trading built on Fuel Network. Features optimized swap routing, concentrated liquidity pools, and minimal slippage for standard token pairs.
 
 - [Fuelsawp-stable-swap](https://github.com/0x0077/Fuelsawp-stable-swap-conrtact): Specialized stable coin exchange on the Fuel Network with custom curve algorithms optimized for minimal price impact between pegged assets. Designed for high-volume, low-slippage trades between stablecoins.
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0x0077&layout=compact&langs_count=8&theme=tokyonight)
+
