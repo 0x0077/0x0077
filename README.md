@@ -34,6 +34,8 @@
 
 - [Fuelsawp-stable-swap](https://github.com/0x0077/Fuelsawp-stable-swap-conrtact): Specialized stable coin exchange on the Fuel Network with custom curve algorithms optimized for minimal price impact between pegged assets. Designed for high-volume, low-slippage trades between stablecoins.
 
+-[Nadswap](https://github.com/0x0077/nad-swap): NadSwap is an efficient and secure decentralized exchange protocol. It features both stable and crypto pool implementations, optimized for different trading scenarios.
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0x0077&layout=compact&langs_count=8&theme=tokyonight)
 
