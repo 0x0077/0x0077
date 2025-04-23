@@ -36,6 +36,7 @@
 
 - [Nadswap](https://github.com/0x0077/nad-swap): NadSwap is an efficient and secure decentralized exchange protocol. It features both stable and crypto pool implementations, optimized for different trading scenarios.
 
+- [Vanity-address-generate](https://github.com/0x0077/vanity-address-generate): The Vanity Address Generator is a high-performance Rust application for generating Ethereum vanity addresses with a specified number of leading zeros.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0x0077&layout=compact&langs_count=8&theme=tokyonight)
 
